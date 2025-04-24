@@ -6,9 +6,9 @@ import { IMaskInput } from "react-imask";
 import { authUser } from "../../redux/reducers/authSlice";
 import { FaRegEye } from "react-icons/fa6";
 import { FaRegEyeSlash } from "react-icons/fa6";
-import "./style.css";
 import { useNavigate } from "react-router-dom";
 import { clearAuthError } from "../../redux/reducers/authSlice";
+import "./style.css";
 
 const Auth = () => {
   const [status, setStatus] = useState("login");

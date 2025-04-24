@@ -1,6 +1,4 @@
 import { useEffect } from "react";
-
-import "./style.css";
 import { getProducts } from "../../redux/reducers/productsSlice";
 import { useDispatch, useSelector } from "react-redux";
 import {
@@ -11,6 +9,7 @@ import {
 import { logout } from "../../redux/reducers/authSlice";
 import { useNavigate } from "react-router-dom";
 import AnimatedMoney from "../../components/animatedMoney/AnimatedMoney";
+import "./style.css";
 
 const Home = () => {
   const dispatch = useDispatch();
