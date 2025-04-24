@@ -37,9 +37,7 @@ npm run dev
 
 ## 📸 Скриншоты
 
-| Sign In | Sign Up | Главная |
-|--------|---------|---------|
-![Sign In](public/screens/sign_in.jpg) | ![Sign Up](public/screens/sign_up.jpg) | ![Главная страница](public/screens/spend.jpg)
+<div align="center"> <img src="public/screens/sign_in.jpg" alt="Sign In" width="300"/> <img src="public/screens/sign_up.jpg" alt="Sign Up" width="300"/> <img src="public/screens/spend.jpg" alt="Main Page" width="300"/> </div>
 
 
 
