@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "test@ya.ru",
+      "password": "$2a$10$8U9Vfgw10T2GGW9rxzzqCOMmxpFojiZ5ZwgtoDv3m.axef7wJy/8e",
+      "name": "Mari",
+      "phone": "123456789",
+      "id": 6
+    },
+    {
+      "email": "test@ya.com",
+      "password": "$2a$10$Cv0RuFBLkMslDMZzvRtXqujm11UDW3M3d6zB/cWQ7oIq7GSYKHwQe",
+      "name": "Yan",
+      "id": 7
+    },
+    {
+      "email": "test2@ya.com",
+      "password": "$2a$10$4lEt7tiTi9lv.74uQsAbXet6nFHBPC5VRhwisrTCmCySJMtAGjBMu",
+      "name": "Yana",
+      "id": 8
+    },
+    {
+      "email": "marina@ya.ru",
+      "password": "$2a$10$2BD2YqVLHS0YsU9CTcAYguQJQPXxhO4Fd00gcTwk96tiPyjl6PCPK",
+      "name": "Marina",
+      "phone": "+7 (123) 456-78-99",
+      "id": 9
+    },
+    {
+      "email": "mar@ya.ru",
+      "password": "$2a$10$e7bFzUsXTnbOiRSFxZPP3ewtuXdqUxVyIgN/naFnKnE3THdtrS5sS",
+      "name": "Mar",
+      "phone": "+7 (889) 979-88-78",
+      "id": 10
+    },
+    {
+      "email": "marr@ya.ru",
+      "password": "$2a$10$dRlSW0booXfVYOIIQtm58.QcKyKyqMxu01TIdBCsR8HLiH8omrqVi",
+      "name": "Mapp",
+      "phone": "+7 (475) 545-45-45",
+      "id": 11
+    }
+  ]
+}
