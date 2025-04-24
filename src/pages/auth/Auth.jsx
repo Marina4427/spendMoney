@@ -106,7 +106,7 @@ const Auth = () => {
                       },
                       pattern: {
                         message: "Enter correctly your name",
-                        value: /^[a-zA-Zа-яА-ЯёЁ\s\-]{2,}$/,
+                        value: /^[a-zA-Zа-яА-ЯёЁ\s-]{2,}$/,
                       },
                     })}
                     type="text"

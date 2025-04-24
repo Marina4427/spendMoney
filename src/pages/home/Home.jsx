@@ -22,7 +22,7 @@ const Home = () => {
 
   useEffect(() => {
     dispatch(getProducts());
-  }, []);
+  }, [dispatch]);
 
   const handleLogout = () => {
     dispatch(logout());
@@ -45,7 +45,11 @@ const Home = () => {
           </div>
         )}
         <div className="img__container">
-          <img className="home__img" src="/billgates.jpg" alt="Bill Gates." />
+          <img
+            className="home__img"
+            src="/billgates.jpg"
+            alt="Bill Gates."
+          />
         </div>
         <h1 className="home__title title-1"> Spend Bill Gates' Money </h1>
         <AnimatedMoney
