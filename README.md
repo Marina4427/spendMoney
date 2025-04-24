@@ -37,6 +37,10 @@ npm run dev
 
 ## 📸 Скриншоты
 
-![Sign In](public/screens/sign_in.jpg)
-![Sign Up](public/screens/sign_up.jpg)
-![Главная страница](public/screens/spend.jpg)
+| Sign In | Sign Up | Главная |
+|--------|---------|---------|
+![Sign In](public/screens/sign_in.jpg) | ![Sign Up](public/screens/sign_up.jpg) | ![Главная страница](public/screens/spend.jpg)
+
+
+
+
