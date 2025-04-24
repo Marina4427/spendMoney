@@ -18,7 +18,6 @@
 - Axios
 - LocalStorage
 - json-server-auth, json-server для mock-бэкенда
-- 
 
 ## 🚀 Быстрый старт
 
