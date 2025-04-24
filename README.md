@@ -37,10 +37,9 @@ npm run dev
 
 ## 📸 Скриншоты
 
-
-  <img src="public/screens/sign_in.jpg" alt="Sign In" width="300" style="vertical-align: top;"/>
-  <img src="public/screens/sign_up.jpg" alt="Sign Up" width="300" style="vertical-align: top;"/>
-  <img src="public/screens/spend.jpg" alt="Main Page" width="300" style="vertical-align: top;"/>
+<img src="public/screens/sign_in.jpg" alt="Sign In" width="400" />
+<img src="public/screens/sign_up.jpg" alt="Sign Up" width="400" />
+<img src="public/screens/spend.jpg" alt="Main Page" width="400" />
 
 
 
